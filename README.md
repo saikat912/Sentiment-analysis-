@@ -72,9 +72,9 @@ This project analyzes Prime Minister Narendra Modi's speech in response to the N
 
 ### 🤝 Contributors
 
-- Data Science & Analysis: [Your Name]
-- Visualization: [Your Name]
-- Project Guidance: [Mentor/Advisor Name]
+- Data Science & Analysis: Saikat pal 
+- Visualization: Saikat pal 
+- Project Guidance: Saikat Pal 
 
 ---
 
